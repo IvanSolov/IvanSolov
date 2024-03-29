@@ -22,7 +22,7 @@ I believe the main thing for the developer is to be friendly, open, and ready to
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanSolov&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=IvanSolov&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSolov&hide=TeX&theme=gotham" /> -->
 </p>
 
