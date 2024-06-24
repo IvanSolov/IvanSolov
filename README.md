@@ -29,4 +29,6 @@ I believe the main thing for the developer is to be friendly, open, and ready to
 **Projects:** 
 
 Small data-table Vue app: https://github.com/IvanSolov/Paragon_data-table
+<br>
+Trading Diary App (backend Nest): https://github.com/IvanSolov/trading-diary
 
