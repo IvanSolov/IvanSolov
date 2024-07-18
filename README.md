@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Ivan](https://www.linkedin.com/in/ivanceavdar/)!
 
-I am a Front-End Developer with 5 years of experience and a passion for writing code. Specializing in creating scalable and efficient frontend applications using technologies such as JavaScript, TypeScript, Vue, Nuxt, HTML/CSS. My experience includes working in an international team, where I participated in mentoring, training, and supporting new team members to create a positive team spirit and increase the value we bring to business.
+I am a Front-End Developer with 5 years of experience and a passion for writing code. Specializing in creating scalable and efficient frontend applications using technologies such as JavaScript, TypeScript, Vue, Nuxt, and React. My experience includes working in an international team, where I participated in mentoring, training, and supporting new team members to create a positive team spirit and increase the value we bring to business.
 
 I believe the main thing for the developer is to be friendly, open, and ready to help colleagues in order to maintain a positive relationship in the team.
 
