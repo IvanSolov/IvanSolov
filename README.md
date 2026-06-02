@@ -26,9 +26,3 @@ I believe the main thing for the developer is to be friendly, open, and ready to
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSolov&hide=TeX&theme=gotham" /> -->
 </p>
 
-**Projects:** (All my previous work was under NDA, but I have prepared a few demo apps to showcase my skills)
-
-Small data-table Vue app: https://github.com/IvanSolov/Paragon_data-table
-<br>
-Trading Diary App (backend Nest): https://github.com/IvanSolov/trading-diary
-
